@@ -1,0 +1,37 @@
+Sample_name	Combo_names	fastq1	fastq2
+RAI1_S17	RAI1	RAI1_S17_R1.trimmed_PE.fastq	RAI1_S17_R2.trimmed_PE.fastq
+RAI2_S9	RAI2	RAI2_S9_R1.trimmed_PE.fastq	RAI2_S9_R2.trimmed_PE.fastq
+RAI3_S10	RAI3	RAI3_S10_R1.trimmed_PE.fastq	RAI3_S10_R2.trimmed_PE.fastq
+RAU1_S6	RAU1	RAU1_S6_R1.trimmed_PE.fastq	RAU1_S6_R2.trimmed_PE.fastq
+RAU2_S7	RAU2	Empty_SKM	RAU2_S7_R1.trimmed_PE.fastq	RAU2_S7_R2.trimmed_PE.fastq
+RAU3_S8	RAU3	Empty_SKM	RAU3_S8_R1.trimmed_PE.fastq	RAU3_S8_R2.trimmed_PE.fastq
+RBI1_S6	RBI1	Empty_SKM	RBI1_S6_R1.trimmed_PE.fastq	RBI1_S6_R2.trimmed_PE.fastq
+RBI2_S7	RBI2	RBI2_S7_R1.trimmed_PE.fastq	RBI2_S7_R2.trimmed_PE.fastq
+RBI3_S3	RBI3	RBI3_S3_R1.trimmed_PE.fastq	RBI3_S3_R2.trimmed_PE.fastq
+RBU1_S1	RBU1	RBU1_S1_R1.trimmed_PE.fastq	RBU1_S1_R2.trimmed_PE.fastq
+RBU2_S1	RBU2	RBU2_S1_R1.trimmed_PE.fastq	RBU2_S1_R2.trimmed_PE.fastq
+RBU3_S2	RBU3	RBU3_S2_R1.trimmed_PE.fastq	RBU3_S2_R2.trimmed_PE.fastq
+RCI1_S6	RCI1	RCI1_S6_R1.trimmed_PE.fastq	RCI1_S6_R2.trimmed_PE.fastq
+RCI2_S7	RCI2	RCI2_S7_R1.trimmed_PE.fastq	RCI2_S7_R2.trimmed_PE.fastq
+RCI3_S8	RCI3	RCI3_S8_R1.trimmed_PE.fastq	RCI3_S8_R2.trimmed_PE.fastq
+RCU1_S9	RCU1	RCU1_S9_R1.trimmed_PE.fastq	RCU1_S9_R2.trimmed_PE.fastq
+RCU2_S10	RCU2	RCU2_S10_R1.trimmed_PE.fastq	RCU2_S10_R2.trimmed_PE.fastq
+RCU3_S11	RCU3	RCU3_S11_R1.trimmed_PE.fastq	RCU3_S11_R2.trimmed_PE.fastq
+SAI1_S12	SAI1	SAI1_S12_R1.trimmed_PE.fastq	SAI1_S12_R2.trimmed_PE.fastq
+SAI2_S5	SAI2	SAI2_S5_R1.trimmed_PE.fastq	SAI2_S5_R2.trimmed_PE.fastq
+SAI3_S13	SAI3	SAI3_S13_R1.trimmed_PE.fastq	SAI3_S13_R2.trimmed_PE.fastq
+SAU1_S14	SAU1	SAU1_S14_R1.trimmed_PE.fastq	SAU1_S14_R2.trimmed_PE.fastq
+SAU2_S15	SAU2	SAU2_S15_R1.trimmed_PE.fastq	SAU2_S15_R2.trimmed_PE.fastq
+SAU3_S16	SAU3	SAU3_S16_R1.trimmed_PE.fastq	SAU3_S16_R2.trimmed_PE.fastq
+SBI1_S1	SBI1	SBI1_S1_R1.trimmed_PE.fastq	SBI1_S1_R2.trimmed_PE.fastq
+SBI2_S2	SBI2	SBI2_S2_R1.trimmed_PE.fastq	SBI2_S2_R2.trimmed_PE.fastq
+SBI3_S2	SBI3	SBI3_S2_R1.trimmed_PE.fastq	SBI3_S2_R2.trimmed_PE.fastq
+SBU1_S3	SBU1	SBU1_S3_R1.trimmed_PE.fastq	SBU1_S3_R2.trimmed_PE.fastq
+SBU2_S4	SBU2	SBU2_S4_R1.trimmed_PE.fastq	SBU2_S4_R2.trimmed_PE.fastq
+SBU3_S5	SBU3	SBU3_S5_R1.trimmed_PE.fastq	SBU3_S5_R2.trimmed_PE.fastq
+SCI1_S9	SCI1	SCI1_S9_R1.trimmed_PE.fastq	SCI1_S9_R2.trimmed_PE.fastq
+SCI2_S3	SCI2	SCI2_S3_R1.trimmed_PE.fastq	SCI2_S3_R2.trimmed_PE.fastq
+SCI3_S4	SCI3	SCI3_S4_R1.trimmed_PE.fastq	SCI3_S4_R2.trimmed_PE.fastq
+SCU1_S5	SCU1	SCU1_S5_R1.trimmed_PE.fastq	SCU1_S5_R2.trimmed_PE.fastq
+SCU2_S10	SCU2	SCU2_S10_R1.trimmed_PE.fastq	SCU2_S10_R2.trimmed_PE.fastq
+SCU3_S4	SCU3	SCU3_S4_R1.trimmed_PE.fastq	SCU3_S4_R2.trimmed_PE.fastq

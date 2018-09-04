@@ -1,0 +1,11 @@
+# working directory (where tophat, cufflinks, cuffmerge, and cuffdiff will output files
+/syn02iscsi/toyin/STRIGA-ANALYSIS/STRIGA/
+
+# genome name and its directory (where .fa and bwt2 indexes are)
+/data/biodata/Zmays/Zmays_chr1-10
+
+# annotation file (.gtf file) and its directory
+/data/biodata/Zmays/Zmays_284_6a.gene_exons.gff3
+
+# fastq directory
+/syn02iscsi/toyin/STRIGA-ANALYSIS/trim_reads/
