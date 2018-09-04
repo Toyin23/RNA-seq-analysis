@@ -1,0 +1,9 @@
+Notes/comments about the RNA-Seq pipeline
+(blawney@jimmy.harvard.edu)
+
+This pipeline has the option of taking either FASTQ or BAM files as input 
+and running a differential expression analysis.
+
+To get the basic input arguments, run ./rnaseq_pipeline.sh without any arguments
+
+More complete documentation is in the Bioinformatics Analysis Google Drive under Workflows.
